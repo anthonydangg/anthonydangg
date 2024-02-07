@@ -16,5 +16,5 @@
 </h5>
 
 <p align="center">
-Check out my repos ⬇️  
+Check out my repos! ⬇️  
 </p>
