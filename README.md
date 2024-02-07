@@ -7,7 +7,7 @@
 
 <h5 align="center">
 
-<a align="center" href="https://www.linkedin.com/in/anthony-dangg/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
+<a align="center" href="https://www.linkedin.com/in/anthony-dangg/" title="LinkedIn Profile"> LinkedIn</a>
 
 </h5>
 
