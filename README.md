@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my Github! I like to write in Python and I'm exploring Cloud Tech 🐍 ☁️
+### Hi there! I'm Anthony. Nice to meet you!
 
 <p align="center">
   <img width="250" src="https://media4.giphy.com/media/TALEyDTerIxdUh9L1s/giphy.gif">
