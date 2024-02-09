@@ -8,7 +8,6 @@
 <h5 align="center">
 
 <a align="center" href="https://www.linkedin.com/in/anthony-dangg/" title="LinkedIn Profile"> LinkedIn</a> •
-<! -- <a align="center" href="https://anthonydang.dev/" title="Website"> Portfolio </a> • -->
 <a align="center" href="https://www.instagram.com/anthonydanggg/" title="Instagram Profile"> Instagram</a> •
 <a align="center" href="https://open.spotify.com/user/pinkzer?si=42d1cf58cc974e9d" title="Spotify Profile"> Spotify</a>
 
