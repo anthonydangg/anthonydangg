@@ -9,7 +9,8 @@
 
 <a align="center" href="https://www.linkedin.com/in/anthony-dangg/" title="LinkedIn Profile"> LinkedIn</a> •
 <a align="center" href="https://www.instagram.com/anthonydanggg/" title="Instagram Profile"> Instagram</a> •
-<a align="center" href="https://open.spotify.com/user/pinkzer?si=42d1cf58cc974e9d" title="Spotify Profile"> Spotify</a>
+<a align="center" href="https://open.spotify.com/user/pinkzer?si=42d1cf58cc974e9d" title="Spotify Profile"> Spotify</a> •
+<a align="center" href="anthonydang.dev" title="Portfolio"> Spotify</a>
 
 
 </h5>
